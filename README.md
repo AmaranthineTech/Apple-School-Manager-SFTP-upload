@@ -10,3 +10,6 @@ To run the script:
 ```
 
 **Note that not providing the path to the zip file results in an error.**
+
+## Shell scripting
+To learn more about shell scripting view the shell scripting series herre: https://arunpatwardhan.com/2021/06/10/shell-scripting-in-macos-part-1/
